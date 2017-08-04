@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SearchApi</string>
+    <string name="search_text">Search for a picture</string>
+    <string name="fetch_failed">Failed to fetch images</string>
+</resources>
